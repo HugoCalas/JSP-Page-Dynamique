@@ -89,6 +89,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -133,6 +136,7 @@
     <option name="width" value="772" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -332,12 +336,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527591254272</updated>
       <workItem from="1527591258326" duration="6149000" />
-      <workItem from="1527665213751" duration="7801000" />
+      <workItem from="1527665213751" duration="8029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13950000" />
+    <option name="totallyTimeSpent" value="14178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="828" y="24" width="772" height="876" extended-state="4" />
@@ -361,11 +365,11 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33020133" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5469062" visible="true" weight="0.33746555" />
-      <window_info id="Web" order="2" sideWeight="0.45309383" side_tool="true" visible="true" weight="0.33746555" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.54709417" visible="true" weight="0.33746555" />
+      <window_info id="Web" order="2" sideWeight="0.4529058" side_tool="true" visible="true" weight="0.33746555" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
